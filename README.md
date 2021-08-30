@@ -1,1 +1,2 @@
 # learngit
+Hello, my friend
